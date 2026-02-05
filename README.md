@@ -70,14 +70,20 @@ Responsável por:
 
 ### Entrada válida:
 Digite o primeiro parâmetro:
+
 12
+
 Digite o segundo parâmetro:
+
 30
 
 ### Saída:
 Imprimindo o número 1
+
 Imprimindo o número 2
+
 ...
+
 Imprimindo o número 18
 
 
