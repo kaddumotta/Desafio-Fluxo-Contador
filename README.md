@@ -85,8 +85,11 @@ Imprimindo o número 18
 
 ### Entrada inválida:
 Digite o primeiro parâmetro:
+
 30
+
 Digite o segundo parâmetro:
+
 12
 
 ### Saída:
